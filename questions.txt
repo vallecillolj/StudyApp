@@ -1,0 +1,15 @@
+How do you pronounce C#?
+What is a string made up of?
+What is an integer made up of?
+What is an instance of a class called?
+What is an increase by 1 called?
+What is a decrease by 1 called?
++, -, /, * are examples of what?
+Changes all letters in a string to lowercase.
+Changes all letters in a string to uppercase
+An object is an _____ of a class.
+Makes classes accessible.
+True and False make up?
+Prints text.
+1 and 0 are integers used in ______ language.
+OR, AND, NOR, are examples of?
